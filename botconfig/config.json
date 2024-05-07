@@ -6,10 +6,10 @@
   "clientsettings": {
     "nodes": [
       {
-         "host": "lavalink.devamop.in",
-         "port": 443,
-         "password": "DevamOP",
-         "secure": true
+         "host": "lava4.fypmoon.org",
+         "port": 14001,
+         "password": "rkarsvllhze",
+         "secure": false
        }
      ]
   },
